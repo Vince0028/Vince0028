@@ -53,8 +53,8 @@ I use a wide range of tools to bring ideas to life.
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vince0028&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vince0028's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&layout=compact&text_color=ffffff&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+![Vince0028's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vince0028&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&layout=compact&text_color=ffffff&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 </p>
 
 ---
@@ -63,13 +63,13 @@ I use a wide range of tools to bring ideas to life.
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **DengueTect** | Assesses dengue risk from symptoms and shares news updates. | `Python` `HTML/CSS/JS` `SQL` | [Live Demo](https://denguetect.onrender.com) |
-| **Student Portal** | Classroom portal combining assignments, monitoring, and forms. | `Python` `HTML/CSS/JS` `SQL` | [Live Demo](https://student-monitor-student-portal.onrender.com) |
-| **AnaLytics** | Rice retailer app for waste tracking and online storefronts. | `Python` `HTML/CSS/JS` `SQL` | [Live Demo](https://anilytics-rice-app.onrender.com) |
-| **benPDF** | Multi-tool converter for QR codes, binaries, and document formats. | `Python` `HTML/CSS/JS` `Docker` | [Live Demo](https://benpdf.onrender.com) |
-| **Resume Website** | Interactive resume with Simple, UI, and Terminal views + AI Chat. | `HTML/CSS/JS` `Node.js` | [View Code](./) |
-| **Driver Expression Detector** | Detects yawns or lost focus and triggers a buzzer for safety. | `Python` `Raspberry Pi` | N/A |
-| **SmartShut** | Arduino-based motion-aware lighting with warning buzzer. | `Arduino` `C/C++` | N/A |
+| **DengueTect** | Assesses dengue risk from symptoms and shares news updates. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | [Live Demo](https://denguetect.onrender.com) |
+| **Student Portal** | Classroom portal combining assignments, monitoring, and forms. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | [Live Demo](https://student-monitor-student-portal.onrender.com) |
+| **AnaLytics** | Rice retailer app for waste tracking and online storefronts. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | [Live Demo](https://anilytics-rice-app.onrender.com) |
+| **benPDF** | Multi-tool converter for QR codes, binaries, and document formats. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | [Live Demo](https://benpdf.onrender.com) |
+| **Resume Website** | Interactive resume with Simple, UI, and Terminal views + AI Chat. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | [View Code](./) |
+| **Driver Expression Detector** | Detects yawns or lost focus and triggers a buzzer for safety. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) | N/A |
+| **SmartShut** | Arduino-based motion-aware lighting with warning buzzer. | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | N/A |
 
 <br>
 
