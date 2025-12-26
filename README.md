@@ -3,7 +3,7 @@
 # Hi, I'm Vince Nelmar Alobin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Enthusiast;UI%2FUX+Designer;Open+Source+Contributor&duration=2500" alt="Typing SVG" />
 </div>
 
  
