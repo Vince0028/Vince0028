@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Vince!
+# <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Vince!
 
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About Me
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About Me
 > "I build high-quality, beautiful applications using modern technologies. I focus on creating software that isn't just functional, but also offers a great user experience."
 
 - 🔭 I’m currently working on **Creative Web & Mobile Applications**
@@ -23,7 +23,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack
 I use a wide range of tools to bring ideas to life.
 
 ### **Languages**
@@ -58,7 +58,7 @@ I use a wide range of tools to bring ideas to life.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20increasing.png" alt="Chart" width="30" height="30" /> GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Chart%20increasing.png" alt="Chart" width="30" height="30" /> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vince0028&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
@@ -69,7 +69,7 @@ I use a wide range of tools to bring ideas to life.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
 
 ### **📂 [Interactive 3D Portfolio](https://github.com/Vince0028/website_resume)**
 > A unique resume experience featuring UI, Terminal, and 3D perspectives.
