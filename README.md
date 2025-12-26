@@ -51,11 +51,10 @@ I use a wide range of tools to bring ideas to life.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-![Vince0028's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vince0028&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&layout=compact&text_color=ffffff&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true)
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vince0028&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vince0028&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
