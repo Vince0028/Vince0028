@@ -12,7 +12,7 @@
 
 <br/>
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> Tech Stack
 I use a wide range of tools to bring ideas to life.
 
 ### **Languages**
