@@ -12,6 +12,16 @@
 
 <br/>
 
+### 📫 Connect with me
+<a href="mailto:alobinvince@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/vince-nelmar-alobin-26a361321">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/>
+
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> Tech Stack
 I use a wide range of tools to bring ideas to life.
 
@@ -75,9 +85,6 @@ I use a wide range of tools to bring ideas to life.
 
 <br>
 
-### 📫 Connect with me
-<a href="mailto:alobinvince@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+
 
 </div>
