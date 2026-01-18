@@ -32,7 +32,7 @@ I use a wide range of tools to bring ideas to life.
 
 ### **Frontend & Mobile**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,vite,bootstrap,threejs" />
 </div>
 
 ### **Backend & Database**
