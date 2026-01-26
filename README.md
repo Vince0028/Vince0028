@@ -37,7 +37,7 @@ I use a wide range of tools to bring ideas to life.
 
 ### **Backend & Database**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,supabase,postgres,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,next,supabase,postgres,sqlite,mysql" />
 </div>
 
 ### **Tools, Hardware & AI**
