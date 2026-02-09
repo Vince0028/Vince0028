@@ -37,7 +37,7 @@ I use a wide range of tools to bring ideas to life.
 
 ### **Backend & Database**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,next,supabase,postgres,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,next,supabase,postgres,sqlite,mysql" />
 </div>
 
 ### **Tools, Hardware & AI**
@@ -80,7 +80,7 @@ I use a wide range of tools to bring ideas to life.
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Vince0028&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
