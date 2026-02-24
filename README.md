@@ -42,7 +42,7 @@ I use a wide range of tools to bring ideas to life.
 
 ### **Tools, Hardware & AI**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,powershell,bash,npm,git,docker,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=opencv,powershell,bash,npm,git,docker,arduino,raspberrypi,kali,ubuntu" />
 </div>
 
 <br/>
@@ -64,6 +64,7 @@ I use a wide range of tools to bring ideas to life.
 ### 💻 Personal Projects
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **NoFluff.ai** | AI-curated tech news & video aggregator that kills scroller's fatigue. Pre-screens content with Gemini, summarizes videos into 3 bullet points, and ranks articles by FAME_SCORE. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) | [Live Demo](https://no-fluff-ai.vercel.app/) |
 | **Veriface** | Advanced, automated attendance tracking system powered by Computer Vision and Machine Learning. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | N/A |
 | **TrackMyGains** | Your Gym Bro & Intelligent Fitness Companion. Tracks splits, manages progress, and analyzes meals via AI Scanner. | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) | [Live Demo](https://track-my-gains-psi.vercel.app) |
 | **BETA** | AI-powered financial management tool offering smart receipt scanning, personalized budget advice, and secure cloud synchronization. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | [Live Demo](https://beta-budget.vercel.app) |
@@ -80,7 +81,7 @@ I use a wide range of tools to bring ideas to life.
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Vince0028&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vince0028&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=445)
 
 
 ---
