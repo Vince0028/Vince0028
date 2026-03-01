@@ -27,12 +27,12 @@ I use a wide range of tools to bring ideas to life.
 
 ### **Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,kotlin,js,ts" />
 </div>
 
 ### **Frontend & Mobile**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,vite,bootstrap,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,tailwind,vite,bootstrap,threejs" />
 </div>
 
 ### **Backend & Database**
@@ -40,9 +40,19 @@ I use a wide range of tools to bring ideas to life.
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,next,supabase,postgres,sqlite,mysql" />
 </div>
 
-### **Tools, Hardware & AI**
+### **Cloud & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,powershell,bash,npm,git,docker,arduino,raspberrypi,kali,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github,npm,cmake" />
+</div>
+
+### **Dev Tools & AI**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,powershell,bash,opencv" />
+</div>
+
+### **Hardware & OS**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,kali,ubuntu" />
 </div>
 
 <br/>
